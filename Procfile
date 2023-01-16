@@ -1,1 +1,1 @@
-web: guicorn persiska-mattor.wsgi
+web: guicorn mattor.wsgi
