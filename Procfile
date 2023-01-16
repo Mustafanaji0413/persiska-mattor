@@ -1,1 +1,1 @@
-web: guicorn mattor.wsgi
+web: gunicorn mattor.wsgi
